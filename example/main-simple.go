@@ -9,10 +9,8 @@
 package main
 
 import (
-	"errors"
 	"fmt"
 	"github.com/jeffotoni/gsreflect"
-	"reflect"
 )
 
 // const tag

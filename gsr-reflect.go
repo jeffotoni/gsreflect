@@ -8,6 +8,11 @@
 
 package gsr
 
+import (
+	"errors"
+	"reflect"
+)
+
 func Default(s interface{}) (err error) {
 
 	st := reflect.TypeOf(s)
