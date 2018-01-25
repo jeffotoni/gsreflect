@@ -13,6 +13,9 @@ import (
 	"reflect"
 )
 
+// const tag
+const tagName = "default"
+
 func Default(s interface{}) (err error) {
 
 	st := reflect.TypeOf(s)

@@ -13,9 +13,6 @@ import (
 	"github.com/jeffotoni/gsreflect"
 )
 
-// const tag
-const tagName = "default"
-
 // struct config
 type Config struct {
 	Domain  string `default:"s3go.gov"`
