@@ -55,12 +55,3 @@ func main() {
 	fmt.Println("Login: ", c.Login)
 }
 ```
-
-## Contributing
-
-- Fork the repo on GitHub
-- Clone the project to your own machine
-- Create a *branch* with your modifications `git checkout -b gsr-cool`.
-- Then _commit_ your changes `git commit -m 'contributing to a nice improvement'`
-- Make a _push_ to your _branch_ `git push origin gsr-cool`.
-- Submit a **Pull Request** so that we can review your changes and update them
