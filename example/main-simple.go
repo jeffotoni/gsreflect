@@ -11,7 +11,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"github.com/github.com/jeffotoni/gsrflect"
+	"github.com/jeffotoni/gsrflect"
 	"reflect"
 )
 
