@@ -55,5 +55,4 @@ func main() {
 	fmt.Println("Unit: ", c.Unit)
 	fmt.Println("Passwd: ", c.Passwd)
 	fmt.Println("Login: ", c.Login)
-
 }
